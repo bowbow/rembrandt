@@ -1,4 +1,4 @@
 rembrandt
 =========
 
-procedural art
+procedural art that will rock you!
